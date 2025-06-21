@@ -43,3 +43,5 @@ const myVariable = "Mathematics";
 
 //String Medhods
 //console.log("Every godd boy does fine".split(" "));
+
+//number
